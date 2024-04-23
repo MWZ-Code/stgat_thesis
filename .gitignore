@@ -143,6 +143,9 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+# ignore config file for downloading and uploading data
+*.json
+
 # Pyre type checker
 .pyre/
 
